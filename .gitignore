@@ -54,3 +54,6 @@ logs/
 # ── Database ──
 *.sqlite
 *.db
+
+instance/
+*.sqlite3
