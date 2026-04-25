@@ -1,11 +1,11 @@
-# 📊 FinAI — Financial Analytics Platform
+# FinAI — Financial Analytics Platform
 
 > Senior Capstone Project | Saudi Electronic University  
 > Supervised by **Dr. Faris Hassan Almansour** | Advised by **Prof. Abc**
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 **FinAI** is an automated financial analysis tool designed to parse complex financial datasets, generate exploratory data analysis (EDA) reports, and surface actionable insights — all through a clean, user-friendly interface backed by a robust database layer.
 
@@ -13,17 +13,17 @@ The platform reduces manual data profiling time by **90%** through automated EDA
 
 ---
 
-## ✨ Features
+## Features
 
-- 📂 **CSV Upload & Parsing** — Automated ingestion of financial datasets
-- 🤖 **Automated EDA** — Instant statistical summaries, distributions, and anomaly flags
-- 💬 **AI-Assisted Analysis** — LangChain-powered natural language financial insights
-- 📊 **Interactive Visualizations** — Dynamic charts and dashboards via the UI layer
-- 🗄️ **Session Management** — Persistent user sessions and analysis history via MySQL
+- **CSV Upload & Parsing** — Automated ingestion of financial datasets
+-  **Automated EDA** — Instant statistical summaries, distributions, and anomaly flags
+- **AI-Assisted Analysis** — LangChain-powered natural language financial insights
+- **Interactive Visualizations** — Dynamic charts and dashboards via the UI layer
+- **Session Management** — Persistent user sessions and analysis history via MySQL
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 FinAI/
@@ -44,7 +44,7 @@ FinAI/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -57,7 +57,7 @@ FinAI/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Clone the repository
 ```bash
@@ -95,19 +95,19 @@ python src/ui/app.py
 
 ---
 
-## 👥 Team
+## Team
 
 | Name | Role | Student ID |
 |---|---|---|
-| Bader Mohammed Salem Alkathiri | Group Leader & Tools Building | S210018780 |
+| Bader Mohammed Salem Alkathiri | Group Leader & Tools Building | - |
 | Abdulrahman Hassan Ali Alzubaidi | Tools Building | S210020445 |
-| Faris Mohammed Alshaikhi | UI Designing | S210019191 |
-| Abdulrahman Mohammed A Alhomayany | Tools Building | S210023979 |
-| Yazeed Abdulrahman Mahmoud Almadhoun | Database & Sessions Management | S210020934 |
+| Faris Mohammed Alshaikhi | UI Designing | - |
+| Abdulrahman Mohammed A Alhomayany | Tools Building | - |
+| Yazeed Abdulrahman Mahmoud Almadhoun | Database & Sessions Management | - |
 
 ---
 
-## 📄 License
+## License
 
 This project is developed as an academic capstone project at **Saudi Electronic University**.  
 © 2025 FinAI Team. All rights reserved.
